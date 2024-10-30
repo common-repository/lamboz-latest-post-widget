@@ -1,0 +1,28 @@
+.lamboz_latest_featured .lamboz_latest_post_title {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	text-decoration: none;
+}
+.lamboz_latest_featured .lamboz_latest_post_title .lamboz_latest_featured_image {
+	width: 100px;
+	max-width: 80px;
+	display: block;
+	height: 96px;
+}
+.lamboz_latest_featured .lamboz_latest_post_title .lamboz_latest_featured_image img {
+	margin: 0;
+}
+.lamboz_latest_featured .lamboz_latest_post_title .lamboz_latest_featured_title {
+	/*width: calc(70% - 13px);
+	margin-left: 13px;
+	
+	line-height: 1.6;*/
+	width: calc(58% - 0px);
+	margin-left: 13px;
+	line-height: 1.6;
+}
+.lamboz_latest_post_post_date {
+	font-size: 12px;
+}
